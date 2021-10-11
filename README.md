@@ -1,10 +1,10 @@
 # Blackjack
 A fully functional blackjack game utilising a standard GUI.
-This project was my first introduction to developing GUI using tkinter, and was one of my favourite projects whilst learning Python
+This project was my first introduction to developing GUI using tkinter, and was one of my favourite projects whilst learning Python.
 
 When the program is run, the Black Jack main window opens. This window, and the subsequent frames, labels and buttons were generated using the tkinter interface.
 A list of tuples containing a card value and its associated image is generated. 
-The player is randomly assigned two cards of a given suit and value, and the dealer is assigned one card
+The player is randomly assigned two cards of a given suit and value, and the dealer is assigned one card.
 
 As per normal Black Jack rules, cards 1-10 have the value of their stated number.
 King, Queen and Jack have the value of 10, and Aces can be either 1 or 11.
