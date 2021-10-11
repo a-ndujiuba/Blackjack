@@ -1,8 +1,9 @@
 # Blackjack
 A fully functional blackjack game utilising a standard GUI.
+This project was my first introduction to developing GUI using tkinter, and was one of my favourite projects whilst learning Python
 
-When the program is run, the Black Jack main window opens.
-A list of tuples containing a card value and its image is generated.
+When the program is run, the Black Jack main window opens. This window, and the subsequent frames, labels and buttons were generated using the tkinter interface.
+A list of tuples containing a card value and its associated image is generated. 
 The player is randomly assigned two cards of a given suit and value, and the dealer is assigned one card
 
 As per normal Black Jack rules, cards 1-10 have the value of their stated number.
@@ -17,3 +18,6 @@ The closest player to 21 wins, or it is a draw if both player's cards have the s
 
 The "New Game" button will start a new game and reassign the cards to both the player and the dealer.
 The "Shuffle" button will randomly shuffle the cards which have not yet been dealt in the deck. 
+
+This project allowed me to become fully proficient in using tkinter to build interactive windows, as well as reinforcing my knowledge of efficient and appropriate function creation in programming to streamline to running and developing of code.
+
